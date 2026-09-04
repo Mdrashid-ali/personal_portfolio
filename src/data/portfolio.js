@@ -1,10 +1,10 @@
 export const profile = {
-  name: 'MD. Rashid Fazeel',
-  firstName: 'Rashid',
+  name: '𝓜𝓓. 𝓡𝓪𝓼𝓱𝓲𝓭 𝓕𝓪𝔃𝓮𝓮𝓵',
+  firstName: '𝓡𝓪𝓼𝓱𝓲𝓭',
   role: 'AI & Software Developer',
   tagline: 'BSc (Hons) Computing with Artificial Intelligence student crafting intelligent, human-centric software.',
   location: 'Lokanthali, Bhaktapur, Nepal',
-  email: 'mdrashidali937@gmail.com',
+  email: 'mail to:mdrashidali937@gmail.com',
   phone: '+977 9767998392',
   github: 'https://github.com/Mdrashid-ali',
   linkedin: 'https://www.linkedin.com/in/mdrashid-ali-b75658371',
@@ -115,13 +115,13 @@ export const projects = [
     repo: 'https://github.com/Mdrashid-ali/crcket-dashboard',
   },
   {
-    title: 'Mistiva Skincare',
+    title: 'Personal Portfolio Website',
     category: 'Personal',
     description:
-      'An online skincare store offering registration, product browsing and search, detailed product pages, shopping cart, and a smooth ordering flow for a convenient, secure shopping experience.',
-    tech: ['HTML', 'Tailwind CSS', 'JavaScript'],
+      'A professional, responsive portfolio website built to showcase my skills, academic background, certifications, and software development projects — with dedicated sections for About, Skills, Projects, Education, Certifications, and Contact.',
+    tech: ['React.js', 'JavaScript', 'Tailwind CSS', 'Vite'],
     link: '',
-    repo: '',
+    repo: 'https://github.com/Mdrashid-ali/personal_portfolio',
   },
 ]
 
